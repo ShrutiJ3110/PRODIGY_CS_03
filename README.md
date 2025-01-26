@@ -60,7 +60,7 @@ This is an interactive and user-friendly password strength checker that evaluate
 
 ## Installation
 
-  Clone this repository to your local machine.
+1.Clone this repository to your local machine.
    ```bash
    git clone <repository-url>
 
@@ -68,7 +68,7 @@ This is an interactive and user-friendly password strength checker that evaluate
 
 ## Instructions to Use
 
-   **Open the `index.html` file in any modern web browser**.
+1.**Open the `index.html` file in any modern web browser**.
    - Supported browsers: Chrome, Firefox, Edge, or any modern browser.
    - No additional installations or setups are required.
 
