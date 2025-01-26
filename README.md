@@ -95,8 +95,7 @@ This is an interactive and user-friendly password strength checker that evaluate
 ## Contact Information
 
 - **Email**: [shrutisjoshi3110@gmail.com](mailto:shrutisjoshi3110@gmail.com)
-- **LinkedIn**: [linkedin.com/in/shruti-joshi-572820297](https://linkedin.com/in/shruti-joshi-572820297)
-
+- **LinkedIn**: [Shruti Joshi](https://www.linkedin.com/in/shruti-joshi-572820297)
 ---
 
 ## Engage with Me
