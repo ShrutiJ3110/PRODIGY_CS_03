@@ -63,7 +63,6 @@ This is an interactive and user-friendly password strength checker that evaluate
 1.Clone this repository to your local machine.
    ```bash
    git clone <repository-url>
-
 ---
 
 ## Instructions to Use
