@@ -1,4 +1,4 @@
-# Cybersecurity Password Checker
+# Password strength Checker
 
 This is an interactive and user-friendly password strength checker that evaluates the strength of user-entered passwords and provides feedback. It helps users create secure passwords by meeting standard security requirements.
 
